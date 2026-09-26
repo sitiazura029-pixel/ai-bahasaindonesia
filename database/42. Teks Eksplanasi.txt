@@ -1,0 +1,17 @@
+42. Teks Eksplanasi
+
+Teks eksplanasi adalah jenis teks nonfiksi yang berisi penjelasan mengenai proses terjadinya atau terbentuknya suatu fenomena alam, sosial, ilmu pengetahuan, budaya, atau peristiwa lainnya. Tujuan utama teks eksplanasi adalah memberikan pemahaman secara logis dan ilmiah kepada pembaca mengenai mengapa (why) dan bagaimana (how) suatu peristiwa dapat terjadi. Berbeda dari teks prosedur yang memuat pandangan subjektif atau langkah instruktif untuk dilakukan pembaca, teks eksplanasi bersifat objektif, berbasis fakta, serta mengedepankan hubungan kausalitas (sebab-akibat).
+
+Struktur penulisan teks eksplanasi disusun secara sistematis dan logis melalui tiga bagian utama:
+
+Bagian pertama adalah Pernyataan Umum (General Statement). Bagian pengantar ini memuat gambaran awal mengenai fenomena atau peristiwa yang akan dijelaskan. Pernyataan umum berisi definisi singkat, latar belakang, atau identifikasi topik agar pembaca memiliki konteks dasar sebelum masuk ke dalam pembahasan proses yang lebih mendalam.
+
+Bagian kedua adalah Deretan Penjelas (Explanatory Sequence). Bagian inti ini berisi uraian terperinci mengenai tahapan-tahapan proses terjadinya fenomena tersebut. Penjelasan pada bagian ini disusun secara logis berdasarkan urutan waktu (kronologis) maupun hubungan sebab-akibat (kausalitas). Bagian deretan penjelas biasanya terdiri dari beberapa paragraf yang menguraikan bagaimana suatu fenomena dimulai, berkembang, hingga menimbulkan dampak tertentu.
+
+Bagian ketiga adalah Interpretasi atau Penutup. Bagian penutup ini memuat simpulan, pandangan singkat, atau pandangan ilmiah penulis mengenai dampak atau fenomena yang telah dijelaskan. Bagian interpretasi bersifat opsional dan berfungsi memberikan penegasan akhir atas keseluruhan isi teks.
+
+Ciri kebahasaan teks eksplanasi sangat khas dan mencerminkan sifat ilmiahnya. Teks ini didominasi oleh penggunaan kata kerja pasif (dibentuk, diakibatkan, dialirkan), pemanfaatan kata istilah atau peristilahan ilmiah yang sesuai dengan bidang ilmu fenomena yang dibahas (evaporasi, tektonik, inflasi, akulturasi), serta penggunaan konjungsi kausalitas (sebab, karena, akibatnya, oleh karena itu) dan konjungsi kronologis (kemudian, lalu, setelah itu, bertahap). Selain itu, teks eksplanasi mengandalkan penggunaan kata benda netral dan abstrak serta menghindari penggunaan kata ganti orang (saya, kita, kami) agar pembahasannya tetap objektif dan berfokus pada fenomena yang diamati.
+
+Berdasarkan pola penyajian dan isi bahasannya, teks eksplanasi terbagi menjadi beberapa tipe, seperti eksplanasi Sequential yang menjelaskan urutan peristiwa secara bertahap; eksplanasi Kausal yang menekankan hubungan sebab-akibat antar-variabel peristiwa; eksplanasi Teoretis yang menjelaskan kemungkinan spekulatif di balik fenomena rumit; serta eksplanasi Faktorial yang menguraikan berbagai faktor pemicu munculnya suatu akibat.
+
+Teks eksplanasi memiliki peran penting dalam literasi ilmiah dan pendidikan karena berfungsi mengedukasi masyarakat, membangun pola pikir kritis, serta menjelaskan kerumitan hukum alam dan dinamika sosial melalui bahasa naratif ilmiah yang terstruktur dan mudah dipahami.

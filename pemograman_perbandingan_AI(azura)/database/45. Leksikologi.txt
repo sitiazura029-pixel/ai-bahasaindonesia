@@ -1,0 +1,17 @@
+45. Leksikologi
+
+Leksikologi merupakan cabang ilmu bahasa (mikrolinguistik) yang mengkaji dan menganalisis leksikon, yaitu keseluruhan kosa kata atau perbendaharaan kata yang dimiliki oleh suatu bahasa. Secara etimologis, istilah ini berasal dari bahasa Yunani lexis yang berarti kata dan logos yang berarti ilmu. Sebagai disiplin akademik, leksikologi tidak sekadar mencatat daftar kata, melainkan meneliti struktur internal, asal-usul, perkembangan sejarah, serta pola hubungan makna antar-kata dalam sistem bahasa secara komprehensif.
+
+Fokus utama kajian leksikologi mencakup beberapa ranah teoretis dan praktis yang saling berkaitan mendalam:
+
+Ranah pertama adalah struktur dan pembentukan kata (morfoleksikologi). Leksikologi mengkaji bagaimana leksem—sebagai unit abstrak terkecil dari leksikon—dibentuk menjadi kata-kata konkret melalui proses morfologis seperti afiksasi (pengimbuhan), reduplikasi (pengulangan), komposisi (penggabungan kata), maupun pemajemukan. Leksikologi menganalisis batasan antara kata dasar, bentuk terbitan, serta bagaimana proses pembentukan tersebut menambah atau mengubah kelas kata dan makna leksikalnya.
+
+Ranah kedua adalah semantik leksikal. Leksikologi meneliti makna inheren yang terkandung dalam setiap leksem serta relasi makna yang terbentuk antar-leksem dalam sistem kebahasaan. Relasi ini mencakup sinonimi (kesamaan makna), antonimi (pertentangan makna), hiponimi dan hipernimi (hubungan hirarki bagian dan keseluruhan), polisemi (satu kata memiliki banyak makna yang saling berhubungan), serta homonimi (dua kata yang bentuknya sama namun maknanya berbeda sama sekali). Selain itu, leksikologi mempelajari perubahan makna kata yang terjadi seiring waktu, baik berupa penyempitan makna, perluasan makna, ameliorasi, maupun peyorasi.
+
+Ranah ketiga adalah etimologi dan sejarah leksikon. Leksikologi menyelidiki asal-usul kata, evolusi bentuk dan maknanya dari masa ke masa, serta proses penyerapan kata asing (serapan) ke dalam suatu bahasa. Melalui analisis etimologis, leksikologi dapat melacak jejak kontak budaya, migrasi, dan pengaruh sejarah suatu peradaban terhadap struktur perbendaharaan kata masyarakat penuturnya.
+
+Ranah keempat adalah fraseologi dan idiom. Leksikologi tidak hanya berhenti pada kata tunggal, melainkan juga meneliti satuan leksikal berunsur ganda yang memiliki makna terpadu, seperti ungkapan, idiom, kata majemuk, dan kiasan tetap. Leksikologi menganalisis bagaimana gabungan kata tertentu dapat membentuk makna baru yang tidak dapat diartikan secara harfiah dari gabungan komponen-komponen penyusunnya.
+
+Penting untuk membedakan antara leksikologi dan leksikografi, meskipun keduanya berfokus pada objek yang sama yaitu leksikon. Leksikologi bertindak sebagai disiplin teori ilmu pengetahuan yang merumuskan kaidah, struktur, dan sifat-sifat kosa kata. Sebaliknya, leksikografi merupakan disiplin terapan yang memanfaatkan teori-teori leksikologi untuk merancang, menyusun, mengedit, dan mengompilasi kamus serta ensiklopedia secara sistematis.
+
+Penguasaan leksikologi memegang peranan krusial dalam pemahaman kebahasaan secara menyeluruh. Kedalaman kajian leksikologi menjadi landasan utama bagi pengembangan rekayasa bahasa, penerjemahan antarbahasa, analisis wacana, pemrosesan bahasa alami (natural language processing) dalam bidang kecerdasan buatan, hingga penyusunan materi pengajaran bahasa yang presisi dan berbobot akademis.

@@ -1,0 +1,41 @@
+24. Teks Eksposisi
+
+Teks eksposisi adalah jenis teks nonfiksi yang bertujuan menyampaikan gagasan, ide, pandangan, atau pengetahuan mengenai suatu topik secara jelas, padat, dan akurat kepada pembaca. Teks ini tidak bertujuan memaksa pembaca agar menyetujui pendapat penulis, melainkan memberikan pemahaman mendalam yang didukung oleh fakta, data, argumen logis, dan bukti-bukti ilmiah.
+
+Tujuan utama dari teks eksposisi adalah memperluas wawasan dan pengetahuan seseorang tanpa memuat unsur ajakan yang bersifat emotif atau subjektif murni. Oleh karena itu, penyampaian dalam teks eksposisi selalu mengedepankan gaya bahasa yang objektif, informatif, dan lugas.
+
+1. Struktur Teks Eksposisi
+Teks eksposisi disusun secara sistematis melalui tiga bagian utama:
+
++------------------------------------------+
+|            THESIS (TESIS)                |  --> Pernyataan pendapat/sudut pandang awal
++------------------------------------------+
+|        ARGUMENTS (ARGUMENTASI)           |  --> Alasan, fakta, data & bukti pendukung
++------------------------------------------+
+|    REITERATION (PENEGASAN ULANG)         |  --> Kesimpulan & penguatan tesis
++------------------------------------------+
+Tesis (Pernyataan Pendapat): Bagian pembuka yang berisi sudut pandang, pandangan umum, atau pendirian awal penulis terhadap topik yang dibahas. Tesis mengenalkan isu utama yang akan diuraikan.
+
+Argumentasi: Bagian inti yang memuat alasan, buktik-bukti konkret, data hasil penelitian, atau fakta dari pakar yang mendukung pernyataan dalam tesis. Bagian ini bisa terdiri dari beberapa paragraf untuk memperkuat validitas argumen.
+
+Penegasan Ulang (Simpulan): Bagian penutup yang menegaskan kembali tesis awal secara ringkas berdasarkan argumen-argumen yang telah dipaparkan sebelumnya. Bagian ini sering memuat rangkuman atau saran konstruktif tanpa memunculkan topik baru.
+
+2. Ciri Kebahasaan Teks Eksposisi
+Bahasa Baku dan Informatif: Menggunakan ragam bahasa formal yang lugas, tidak berbelit-belit, dan bebas dari ambigu.
+
+Kata Bentukan/Nominalisasi: Sering mengubah kata kerja menjadi kata benda (misalnya: mendidik menjadi pendidikan, berkembang menjadi perkembangan).
+
+Kata Leksikal (Nomina, Verba, Adjektiva, Adverbia): Banyak menggunakan kata benda konkret/abstrak, kata kerja aktif/pasif, kata sifat, dan kata keterangan untuk memperjelas konteks.
+
+Konjungsi Kausalitas dan Chronological: Kata hubung yang menunjukkan hubungan sebab-akibat (misalnya: karena, sebab, oleh karena itu, sehingga) serta urutan argumentasi (misalnya: pertama, selanjutnya, di sisi lain).
+
+Verba Persepsi atau Pronomina Persona: Kata kerja yang menunjukkan penilaian atau sudut pandang, serta pronomina seperti kita atau penulis dalam porsi yang objektif.
+
+3. Contoh Teks Eksposisi
+Pentingnya Ruang Terbuka Hijau bagi Kesejahteraan Ekologi Kota
+
+Keberadaan Ruang Terbuka Hijau (RTH) di kawasan perkotaan bukan sekadar pelengkap estetika tata kota, melainkan elemen vital yang menentukan kualitas lingkungan dan kesehatan masyarakat secara keseluruhan. (Tesis)
+
+Secara ekologis, RTH berfungsi sebagai paru-paru kota yang menyerap polutan udara seperti karbon monoksida dan partikel mikro hazard. Berdasarkan data riset lingkungan, keberadaan deretan pohon rindang di area RTH mampu menurunkan suhu lingkungan sekitar hingga 2 derajat Celsius melalui proses transpirasi dan peneduhan. Selain itu, RTH menyediakan area resapan air hujan yang efektif untuk memitigasi risiko banjir dan menjaga ketersediaan air tanah. Dari sudut pandang psikologis, penelitian menunjukkan bahwa akses warga terhadap taman kota berbanding lurus dengan penurunan tingkat stres masyarakat perkotaan. (Argumentasi)
+
+Dengan demikian, pembangunan dan pelestarian Ruang Terbuka Hijau merupakan investasi jangka panjang yang tidak boleh terabaikan dalam perencanaan tata kota modern demi terciptanya lingkungan hidup yang berkelanjutan. (Penegasan Ulang)

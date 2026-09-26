@@ -1,0 +1,37 @@
+38. Pragmatik
+
+Pragmatik merupakan salah satu cabang utama micro-linguistik yang mengkaji hubungan antara bahasa dan konteks penggunaannya. Berbeda dari semantik yang mempelajari makna bebas konteks (decontextualized meaning) atau makna literal kata dan kalimat, pragmatik berfokus pada makna tuturan (utterance meaning) yang sangat terikat pada siapa penuturnya, kepada siapa tuturan disampaikan, di mana, kapan, serta dalam situasi apa tuturan tersebut diujarkan.
+
+Fokus utama pragmatik adalah memahami maksud penutur (speaker meaning) dan bagaimana pendengar dapat menarik kesimpulan (inference) mengenai pesan tersirat yang tidak disampaikan secara eksplisit melalui bentuk kebahasaan semata.
+
+Konsep dan Bidang Kajian Utama Pragmatik
+Dalam analisis pragmatik, terdapat beberapa konsep kunci yang menjadi landasan utama kajian:
+
+Deiksis (Deixis): Fenomena kebahasaan di mana acuan atau referensi suatu kata bergantung sepenuhnya pada konteks tuturan. Kata-kata deiktik tidak memiliki acuan tetap. Deiksis terbagi menjadi deiksis persona (saya, kamu, mereka), deiksis ruang atau tempat (di sini, di sana), deiksis waktu (sekarang, besok, kemarin), deiksis wacana (sebagaimana dijelaskan di atas), dan deiksis sosial (Bapak, Ibu, Yang Mulia).
+
+Tindak Tutur (Speech Acts): Teori yang dikembangkan oleh J.L. Austin dan dikembangkan oleh J.R. Searle, yang memandang bahwa ketika seseorang mengucapkan sesuatu, ia tidak hanya menyampaikan kata-kata, melainkan juga melakukan suatu tindakan. Tindak tutur terbagi menjadi tiga tingkatan:
+
+Tindak Lokusi (Locutionary Act): Tindakan mengucapkan sesuatu dengan makna literal kalimat tersebut.
+
+Tindak Ilokusi (Illocutionary Act): Daya atau fungsi yang terkandung dalam tuturan, seperti memerintah, berjanji, meminta maaf, mengancam, atau memuji.
+
+Tindak Perlokusi (Perlocutionary Act): Efek atau dampak yang ditimbulkan oleh tuturan terhadap pikiran, perasaan, atau tindakan pendengar.
+
+Implikatur Percakapan (Conversational Implicature): Maksud atau makna tersirat yang ingin disampaikan oleh penutur tetapi tidak dinyatakan secara eksplisit dalam tuturan. Konsep ini dipelopori oleh H.P. Grice, yang menyatakan bahwa implikatur timbul karena adanya pelanggaran terhadap prinsip kerja sama dalam berinteraksi.
+
+Prinsip Kerja Sama (Cooperative Principle): Pandangan Grice bahwa partisipan tutur secara intuitif saling bekerja sama agar komunikasi berjalan efektif. Prinsip ini ditopang oleh empat maksim percakapan:
+
+Maksim Kuantitas: Berikan informasi sejujurnya dan secukupnya (tidak berlebihan atau kekurangan).
+
+Maksim Kualitas: Nyatakan informasi yang diyakini benar dan memiliki bukti yang cukup.
+
+Maksim Relevansi: Sampaikan tuturan yang relevan dengan topik pembicaraan.
+
+Maksim Cara/Pelaksanaan: Sampaikan tuturan secara jelas, tidak kabur, tidak ambigu, dan teratur.
+
+Prinsip Kesantunan (Politeness Principle): Aturan sosial-kebahasaan yang mengatur agar tuturan tidak merusak hubungan sosial atau menyinggung perasaan mitra tutur. Robin Lakoff dan Geoffrey Leech merumuskan berbagai maksim kesantunan, seperti maksim kedermawanan, maksim penghargaan, dan maksim kesepakatan. Selain itu, Penelope Brown dan Stephen Levinson mengemukakan teori Face Threatening Acts (FTA) dan strategi penyelamatan muka (face-saving acts).
+
+Praanggapan (Presupposition): Asumsi awal atau pengetahuan latar belakang yang sudah diandaikan benar oleh penutur sebelum ia mengujarkan suatu kalimat. Pendengar harus berbagi praanggapan yang sama agar tuturan dapat dipahami dengan tepat.
+
+Urgensi Pragmatik dalam Komunikasi
+Kajian pragmatik memegang peranan krusial dalam interaksi sosial karena membantu manusia menghindari kesalahpahaman (miscommunication) yang disebabkan oleh kegagalan memahami konteks, sindiran, humor, atau norma kesantunan lokal. Penguasaan kompetensi pragmatik memungkinkan seseorang tidak hanya mahir secara tata bahasa (grammatical competence), melainkan juga santun, efektif, dan tepat sasaran dalam berkomunikasi di berbagai lingkungan sosial dan budaya.

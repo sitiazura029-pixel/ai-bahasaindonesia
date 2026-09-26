@@ -1,0 +1,20 @@
+12. Proses Afiksasi
+
+Afiksasi adalah proses pembentukan kata dengan cara menambahkan afiks atau imbuhan pada bentuk dasar. Afiksasi merupakan salah satu proses penting dalam morfologi bahasa Indonesia.
+Berdasarkan posisinya, afiks dapat dibedakan menjadi beberapa jenis.
+Prefiks adalah imbuhan yang terletak di awal kata. Contohnya:
+me- + baca → membaca
+ber- + jalan → berjalan
+di- + tulis → ditulis
+ter- + jatuh → terjatuh
+Sufiks adalah imbuhan yang terletak di belakang kata dasar. Contohnya:
+tulis + -an → tulisan
+baca + -an → bacaan
+isi + -kan → isikan
+Infiks merupakan imbuhan yang disisipkan ke dalam kata dasar. Dalam bahasa Indonesia, contoh yang dikenal antara lain -el-, -em-, dan -er-, meskipun penggunaannya relatif terbatas dalam bahasa Indonesia modern.
+Konfiks merupakan imbuhan yang terdiri atas dua bagian yang mengapit bentuk dasar. Contohnya:
+ke- + indah + -an → keindahan
+pe- + tulis + -an → penulisan
+per- + baik + -an → perbaikan
+Afiksasi tidak hanya mengubah bentuk kata, tetapi juga dapat mengubah kategori dan makna kata. Misalnya, kata ajar merupakan bentuk dasar, sedangkan pengajaran merupakan nomina yang mengacu pada proses atau kegiatan mengajar.
+Karena itu, memahami afiksasi sangat penting untuk mengetahui bagaimana sebuah kata terbentuk dan bagaimana maknanya digunakan dalam kalimat.

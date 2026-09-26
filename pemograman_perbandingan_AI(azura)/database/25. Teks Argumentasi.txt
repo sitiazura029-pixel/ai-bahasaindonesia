@@ -1,0 +1,39 @@
+25. Teks Argumentasi
+
+Teks argumentasi adalah jenis teks yang bertujuan untuk meyakinkan, membuktikan, atau mempengaruhi pembaca agar menerima gagasan, pendapat, atau sikap penulis mengenai suatu isu. Berbeda dengan teks eksposisi yang bersifat murni memberikan informasi, teks argumentasi ditulis dengan tujuan yang lebih persuasif-logis: membuktikan kebenaran suatu sudut pandang dan mengubah keyakinan atau cara pandang pembaca melalui penalaran yang kuat.
+
+1. Struktur Teks Argumentasi
+Secara umum, teks argumentasi disusun melalui tiga bagian utama yang membentuk alur penalaran yang runtut:
+
++------------------------------------------+
+|          PENDAHULUAN (THESIS)            |  --> Isu, konteks, dan posisi/klaim penulis
++------------------------------------------+
+|          TUBUH ARGUMEN (BODY)            |  --> Alasan logis, pembuktian, fakta, data
++------------------------------------------+
+|             KESIMPULAN (TAIL)            |  --> Penegasan klaim & ajakan/solusi akhir
++------------------------------------------+
+Pendahuluan (Tesis/Klaim Utama): Mengenalkan isu atau permasalahan yang dibahas, memberikan latar belakang konteks, serta menyatakan secara tegas posisi atau klaim yang dibela oleh penulis.
+
+Tubuh Argumen: Bagian paling penting yang memuat poin-poin alasan logis, bukti empiris, statistik, hasil penelitian, atau pendapat ahli yang mendukung klaim. Bagian ini juga dapat memuat counter-argument (sanggahan terhadap pandangan oposisi) beserta solusinya untuk memperkuat posisi penulis.
+
+Kesimpulan: Merangkum poin-poin kunci penalaran, menegaskan kembali kebenaran klaim utama, dan sering kali ditutup dengan imbauan, solutif, atau ajakan bertindak.
+
+2. Ciri Kebahasaan Teks Argumentasi
+Penggunaan Kalimat Persuasif-Logis: Kalimat disusun secara eksplisit untuk mengarahkan logika berpikir pembaca.
+
+Kata Hubung Kausalitas dan Konseptual: Banyak menggunakan konjungsi sebab-akibat (oleh karena itu, dengan demikian, akibatnya) serta konjungsi pertentangan (sebaliknya, namun, meskipun demikian).
+
+Verba Mental dan Analitis: Kata kerja yang menunjukkan argumen pemikiran atau penilaian (berargumen, menyimpulkan, membuktikan, menilai).
+
+Kata Modalitas: Menggunakan kata-kata yang menunjukkan tingkat kepastian (harus, mutlak, perlu, sangat penting, tidak dapat dimungkiri).
+
+Data dan Fakta Konkret: Menyajikan angka, hasil survei, atau kutipan ilmiah untuk menjauhkan argumen dari sekadar opini emosional atau subjektif murni.
+
+3. Contoh Teks Argumentasi
+Diversifikasi Pangan Lokal sebagai Solusi Ketahanan Pangan Nasional
+
+Ketergantungan masyarakat Indonesia pada beras sebagai sumber karbohidrat utama sudah berada pada tingkat yang mengkhawatirkan. Kebijakan untuk memperkuat diversifikasi pangan berbasis komoditas lokal—seperti singkong, jagung, sagu, dan ubi jalar—harus segera diimplementasikan secara masif demi menjamin ketahanan pangan nasional di masa depan.
+
+Ketergantungan tunggal pada beras membuat ketahanan pangan nasional menjadi sangat rapuh terhadap gangguan iklim global dan fluktuasi harga di pasar internasional. Ketika krisis iklim memicu kekeringan panjang yang mengganggu produksi padi domestik, harga beras melambung tinggi dan memaksa pemerintah melakukan impor skala besar. Padahal, Indonesia memiliki kekayaan hayati lokal yang sangat melimpah. Lahan-lahan di berbagai daerah memiliki karakteristik yang jauh lebih cocok untuk ditanami komoditas non-beras, seperti sagu di wilayah timur atau jagung di lahan kering. Diversifikasi tidak hanya menurunkan risiko krisis pangan, tetapi juga memperkuat perekonomian petani lokal.
+
+Oleh karena itu, mengalihkan sebagian pola konsumsi masyarakat menuju pangan lokal bukan lagi sekadar pilihan gaya hidup, melainkan keharusan strategis nasional. Pemerintah dan masyarakat harus bekerja sama membangun kesadaran serta infrastruktur pengolahan pangan lokal agar ketahanan pangan Indonesia benar-benar mandiri dan berdikari.
