@@ -1,0 +1,15 @@
+13. Pengertian dan Ruang Lingkup Sintaksis
+
+Sintaksis merupakan cabang ilmu linguistik yang mempelajari bagaimana kata disusun menjadi satuan yang lebih besar, seperti frasa, klausa, dan kalimat. Sintaksis tidak hanya membahas urutan kata, tetapi juga hubungan antara unsur-unsur dalam suatu konstruksi kalimat.
+Ruang lingkup sintaksis mencakup kata dalam hubungannya dengan kata lain, frasa, klausa, kalimat, serta hubungan fungsi dan kategori dalam kalimat.
+Dalam kalimat:
+Siti membaca buku.
+terdapat beberapa unsur yang memiliki fungsi berbeda. Siti berfungsi sebagai subjek, membaca sebagai predikat, sedangkan buku sebagai objek.
+Sintaksis juga membahas jenis-jenis kalimat berdasarkan struktur dan tujuan penggunaannya. Berdasarkan jumlah klausa, terdapat kalimat tunggal dan kalimat majemuk. Kalimat tunggal hanya mempunyai satu klausa, sedangkan kalimat majemuk memiliki lebih dari satu klausa.
+Contohnya:
+Siswa membaca buku.
+Kalimat tersebut merupakan kalimat tunggal.
+Sementara:
+Siswa membaca buku dan guru menjelaskan materi.
+merupakan kalimat majemuk karena memiliki lebih dari satu struktur klausa.
+Sintaksis sangat penting karena membantu seseorang memahami bagaimana sebuah kalimat dibentuk sehingga memiliki struktur dan makna yang jelas.
